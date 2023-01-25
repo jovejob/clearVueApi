@@ -3,8 +3,19 @@
 
 ## To be precise, we need at least the latest release of Node.js v14
 
-## Starting the development server
-- node ace serve --watch
+# base
+
+## Project setup
+
+```
+# npm
+npm install
+```
+### Compiles and hot-reloads for development(starting the development server)
+```
+node ace serve --watch
+```
+
 
 
 ## Commands useful to refresh DB data/migrations
